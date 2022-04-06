@@ -1,2 +1,0 @@
-- finir audit P4 (abondance.com, mdn)
-- appliquer accessibilité sur maquette (utiliser wave ou lighthouse)
