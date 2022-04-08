@@ -859,6 +859,11 @@ h4 {
     margin:50px;
 }
 
+.text-nav:hover{
+    color: black!important;
+    font-weight: bold;
+}
+
 .titre-portfolio{
     color: #575757!important;
     padding-left: 20px!important;
