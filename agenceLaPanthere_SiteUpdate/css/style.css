@@ -1,8 +1,8 @@
 @font-face
 {
     font-family: 'Merienda';
-    src: url('fonts/Merienda-Bold.ttf');
-    src: url('fonts/Merienda-Bold.ttf') format('truetype');
+    src: url('/agenceLaPanthere_SiteUpdate/fonts/Merienda-Bold.ttf');
+    src: url('/agenceLaPanthere_SiteUpdate/fonts/Merienda-Bold.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -31,7 +31,7 @@ a:hover {
     bottom: 0;
     width: 100%;
     z-index: 100000;
-    background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
+    background: #FFFFFF url("/agenceLaPanthere_SiteUpdate/img/pageload-spinner.gif") no-repeat center center;
 }
 
 .bloc {
@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("/agenceLaPanthere_SiteUpdate/img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -820,19 +820,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("/agenceLaPanthere_SiteUpdate/img/dots-bg.png");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("/agenceLaPanthere_SiteUpdate/img/lines-h2-bg.png");
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("/agenceLaPanthere_SiteUpdate/img/agence-la-panthere.webp");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
+    background-image: url("/agenceLaPanthere_SiteUpdate/img/image-de-presentation.webp");
 }
 
 .width-logo{
